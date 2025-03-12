@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/j45ib5nr4er4mdsbshoanlxlg4_136.0.7052.2/136.0.7052.2_chrome_installer.exe](https://dl.google.com/release2/chrome/j45ib5nr4er4mdsbshoanlxlg4_136.0.7052.2/136.0.7052.2_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：136.0.7063.1  
-**文件大小**：120.96 MB  
-**校验值（Sha256）**：ce54af80f07392da6e0076a5538d93544357bb7f4adb1c1803a64c5399416eb3  
-**下载链接**：[https://dl.google.com/release2/chrome/ad5egyiinpmlxeicbcxf5qogmbla_136.0.7063.1/136.0.7063.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ad5egyiinpmlxeicbcxf5qogmbla_136.0.7063.1/136.0.7063.1_chrome_installer.exe)  
+**最新版本**：136.0.7064.0  
+**文件大小**：102.82 MB  
+**校验值（Sha256）**：e381c8f9c8f79d0cc2c455b1e444e282b390de51302b8d35dac072c5eaafd3e4  
+**下载链接**：[https://dl.google.com/release2/chrome/acfx5ol6a6cla4qt5ji6qlbhvsua_136.0.7064.0/136.0.7064.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acfx5ol6a6cla4qt5ji6qlbhvsua_136.0.7064.0/136.0.7064.0_chrome_installer.exe)  
 
 ## win canary x64
 **最新版本**：136.0.7064.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/nxjuhdeot7uu7ezlwk4e4sntga_136.0.7064.0/136.0.7064.0_chrome_installer.exe](https://dl.google.com/release2/chrome/nxjuhdeot7uu7ezlwk4e4sntga_136.0.7064.0/136.0.7064.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：136.0.7063.0  
-**文件大小**：120.37 MB  
-**校验值（Sha256）**：e1b9f58d6a6c8acd825dcf48406e6d670aa6b900fb2b3865f138727b448b4b9e  
-**下载链接**：[https://dl.google.com/release2/chrome/acyage4juigmwnu2nglchhvm6wtq_136.0.7063.0/136.0.7063.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acyage4juigmwnu2nglchhvm6wtq_136.0.7063.0/136.0.7063.0_chrome_installer.exe)  
+**最新版本**：136.0.7064.0  
+**文件大小**：120.55 MB  
+**校验值（Sha256）**：4b038acf91528abd360d623943dce402ccca741ba1dd88cbf983f18c5e295195  
+**下载链接**：[https://dl.google.com/release2/chrome/f563c25dgimbuphlr3p2fiozre_136.0.7064.0/136.0.7064.0_chrome_installer.exe](https://dl.google.com/release2/chrome/f563c25dgimbuphlr3p2fiozre_136.0.7064.0/136.0.7064.0_chrome_installer.exe)  
 
