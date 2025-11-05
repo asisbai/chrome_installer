@@ -70,10 +70,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/fkhbdetokdcoedmj5n742owa3y_144.0.7500.5/144.0.7500.5_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fkhbdetokdcoedmj5n742owa3y_144.0.7500.5/144.0.7500.5_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：144.0.7509.1  
-**文件大小**：526 MB  
-**校验值（Sha256）**：c3203ed6f2f0978a1158bd039c1fe42a344d10cbadf072645df0ad48875b5f9e  
-**下载链接**：[https://dl.google.com/release2/chrome/inv4bdjegbai5t52m233tekpmi_144.0.7509.1/144.0.7509.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/inv4bdjegbai5t52m233tekpmi_144.0.7509.1/144.0.7509.1_chrome_installer_uncompressed.exe)  
+**最新版本**：144.0.7510.0  
+**文件大小**：349.43 MB  
+**校验值（Sha256）**：2f7eefda4034505747659f93ae1600e218e776f3b7160d2009024215f8d9023f  
+**下载链接**：[https://dl.google.com/release2/chrome/l5pcgnjny2fy6pkuxwd7lrzb3u_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/l5pcgnjny2fy6pkuxwd7lrzb3u_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：144.0.7510.0  
@@ -82,8 +82,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/dzz5siejvgwfqdd6nohvsyiiaa_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/dzz5siejvgwfqdd6nohvsyiiaa_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：144.0.7509.0  
-**文件大小**：411.88 MB  
-**校验值（Sha256）**：3e3fa2337a26637f485d14d82883812ab21c7e4fdedbfd5007691e0619886fe0  
-**下载链接**：[https://dl.google.com/release2/chrome/ihkhn6f6euilo3mrteqx4ne2li_144.0.7509.0/144.0.7509.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ihkhn6f6euilo3mrteqx4ne2li_144.0.7509.0/144.0.7509.0_chrome_installer_uncompressed.exe)  
+**最新版本**：144.0.7510.0  
+**文件大小**：412.02 MB  
+**校验值（Sha256）**：19b4ae4e904e1859bbd1db38a833c56eb97889804c84fc8b57d4c80c333f8edb  
+**下载链接**：[https://dl.google.com/release2/chrome/acp267spfuhxx7qhvm4quilfkzda_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acp267spfuhxx7qhvm4quilfkzda_144.0.7510.0/144.0.7510.0_chrome_installer_uncompressed.exe)  
 
